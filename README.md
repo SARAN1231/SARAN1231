@@ -3,7 +3,7 @@
 <!-- <h3 align="center"> Undergraduate Student  From St Joseph's College Of Engineering , Chennai</h3> -->
 
 
-<h3 align="center">Tech Enthusiast | MERN Stack Developer | Crafting Seamless Web Experiences</h3> 
+<h3 align="center">Tech Enthusiast | Full Stack Java Developer | Crafting Seamless Web Experiences</h3> 
 <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"><img align = "right" alt ="web developer" width = 400 src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 - 🌱 I’m a *MERN Stack Developer* 
 
